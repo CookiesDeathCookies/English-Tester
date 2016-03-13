@@ -30,19 +30,20 @@
       <file leaf-file-name="swing.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/swing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5443299">
-              <caret line="284" column="35" selection-start-line="284" selection-start-column="35" selection-end-line="284" selection-end-column="35" />
+            <state vertical-scroll-proportion="0.57731956">
+              <caret line="60" column="26" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="imports" expanded="true" />
-                <element signature="method#initializeMainMenu#0;class#swing#0" expanded="false" />
                 <element signature="method#patternButton#0;class#swing#0" expanded="false" />
                 <element signature="method#getTestsButton#0;class#swing#0" expanded="false" />
                 <element signature="method#getStudyButton#0;class#swing#0" expanded="false" />
                 <element signature="method#getLearningButton#0;class#swing#0" expanded="false" />
                 <element signature="method#slogan#0;class#swing#0" expanded="false" />
                 <element signature="method#phrase#0;class#swing#0" expanded="false" />
+                <element signature="method#getResultText#0;class#swing#0" expanded="false" />
                 <element signature="method#getWords#0;class#swing#0" expanded="false" />
+                <element signature="method#getImageLabel#0;class#swing#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -429,7 +430,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="9" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/swing.java</url>
+          <line>267</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="11" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -445,14 +454,15 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="method#initializeMainMenu#0;class#swing#0" expanded="false" />
             <element signature="method#patternButton#0;class#swing#0" expanded="false" />
             <element signature="method#getTestsButton#0;class#swing#0" expanded="false" />
             <element signature="method#getStudyButton#0;class#swing#0" expanded="false" />
             <element signature="method#getLearningButton#0;class#swing#0" expanded="false" />
             <element signature="method#slogan#0;class#swing#0" expanded="false" />
             <element signature="method#phrase#0;class#swing#0" expanded="false" />
+            <element signature="method#getResultText#0;class#swing#0" expanded="false" />
             <element signature="method#getWords#0;class#swing#0" expanded="false" />
+            <element signature="method#getImageLabel#0;class#swing#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -480,14 +490,15 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="method#initializeMainMenu#0;class#swing#0" expanded="false" />
             <element signature="method#patternButton#0;class#swing#0" expanded="false" />
             <element signature="method#getTestsButton#0;class#swing#0" expanded="false" />
             <element signature="method#getStudyButton#0;class#swing#0" expanded="false" />
             <element signature="method#getLearningButton#0;class#swing#0" expanded="false" />
             <element signature="method#slogan#0;class#swing#0" expanded="false" />
             <element signature="method#phrase#0;class#swing#0" expanded="false" />
+            <element signature="method#getResultText#0;class#swing#0" expanded="false" />
             <element signature="method#getWords#0;class#swing#0" expanded="false" />
+            <element signature="method#getImageLabel#0;class#swing#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -515,49 +526,15 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="method#initializeMainMenu#0;class#swing#0" expanded="false" />
             <element signature="method#patternButton#0;class#swing#0" expanded="false" />
             <element signature="method#getTestsButton#0;class#swing#0" expanded="false" />
             <element signature="method#getStudyButton#0;class#swing#0" expanded="false" />
             <element signature="method#getLearningButton#0;class#swing#0" expanded="false" />
             <element signature="method#slogan#0;class#swing#0" expanded="false" />
             <element signature="method#phrase#0;class#swing#0" expanded="false" />
+            <element signature="method#getResultText#0;class#swing#0" expanded="false" />
             <element signature="method#getWords#0;class#swing#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Server.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/swing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-            <element signature="method#initializeMainMenu#0;class#swing#0" expanded="false" />
-            <element signature="method#patternButton#0;class#swing#0" expanded="false" />
-            <element signature="method#getTestsButton#0;class#swing#0" expanded="false" />
-            <element signature="method#getStudyButton#0;class#swing#0" expanded="false" />
-            <element signature="method#getLearningButton#0;class#swing#0" expanded="false" />
-            <element signature="method#slogan#0;class#swing#0" expanded="false" />
-            <element signature="method#phrase#0;class#swing#0" expanded="false" />
-            <element signature="method#getWords#0;class#swing#0" expanded="false" />
+            <element signature="method#getImageLabel#0;class#swing#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -585,14 +562,15 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="method#initializeMainMenu#0;class#swing#0" expanded="false" />
             <element signature="method#patternButton#0;class#swing#0" expanded="false" />
             <element signature="method#getTestsButton#0;class#swing#0" expanded="false" />
             <element signature="method#getStudyButton#0;class#swing#0" expanded="false" />
             <element signature="method#getLearningButton#0;class#swing#0" expanded="false" />
             <element signature="method#slogan#0;class#swing#0" expanded="false" />
             <element signature="method#phrase#0;class#swing#0" expanded="false" />
+            <element signature="method#getResultText#0;class#swing#0" expanded="false" />
             <element signature="method#getWords#0;class#swing#0" expanded="false" />
+            <element signature="method#getImageLabel#0;class#swing#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -620,14 +598,15 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="method#initializeMainMenu#0;class#swing#0" expanded="false" />
             <element signature="method#patternButton#0;class#swing#0" expanded="false" />
             <element signature="method#getTestsButton#0;class#swing#0" expanded="false" />
             <element signature="method#getStudyButton#0;class#swing#0" expanded="false" />
             <element signature="method#getLearningButton#0;class#swing#0" expanded="false" />
             <element signature="method#slogan#0;class#swing#0" expanded="false" />
             <element signature="method#phrase#0;class#swing#0" expanded="false" />
+            <element signature="method#getResultText#0;class#swing#0" expanded="false" />
             <element signature="method#getWords#0;class#swing#0" expanded="false" />
+            <element signature="method#getImageLabel#0;class#swing#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -655,14 +634,15 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="method#initializeMainMenu#0;class#swing#0" expanded="false" />
             <element signature="method#patternButton#0;class#swing#0" expanded="false" />
             <element signature="method#getTestsButton#0;class#swing#0" expanded="false" />
             <element signature="method#getStudyButton#0;class#swing#0" expanded="false" />
             <element signature="method#getLearningButton#0;class#swing#0" expanded="false" />
             <element signature="method#slogan#0;class#swing#0" expanded="false" />
             <element signature="method#phrase#0;class#swing#0" expanded="false" />
+            <element signature="method#getResultText#0;class#swing#0" expanded="false" />
             <element signature="method#getWords#0;class#swing#0" expanded="false" />
+            <element signature="method#getImageLabel#0;class#swing#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -690,14 +670,15 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="method#initializeMainMenu#0;class#swing#0" expanded="false" />
             <element signature="method#patternButton#0;class#swing#0" expanded="false" />
             <element signature="method#getTestsButton#0;class#swing#0" expanded="false" />
             <element signature="method#getStudyButton#0;class#swing#0" expanded="false" />
             <element signature="method#getLearningButton#0;class#swing#0" expanded="false" />
             <element signature="method#slogan#0;class#swing#0" expanded="false" />
             <element signature="method#phrase#0;class#swing#0" expanded="false" />
+            <element signature="method#getResultText#0;class#swing#0" expanded="false" />
             <element signature="method#getWords#0;class#swing#0" expanded="false" />
+            <element signature="method#getImageLabel#0;class#swing#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -725,14 +706,51 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="method#initializeMainMenu#0;class#swing#0" expanded="false" />
             <element signature="method#patternButton#0;class#swing#0" expanded="false" />
             <element signature="method#getTestsButton#0;class#swing#0" expanded="false" />
             <element signature="method#getStudyButton#0;class#swing#0" expanded="false" />
             <element signature="method#getLearningButton#0;class#swing#0" expanded="false" />
             <element signature="method#slogan#0;class#swing#0" expanded="false" />
             <element signature="method#phrase#0;class#swing#0" expanded="false" />
+            <element signature="method#getResultText#0;class#swing#0" expanded="false" />
             <element signature="method#getWords#0;class#swing#0" expanded="false" />
+            <element signature="method#getImageLabel#0;class#swing#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="method#patternButton#0;class#swing#0" expanded="false" />
+            <element signature="method#getTestsButton#0;class#swing#0" expanded="false" />
+            <element signature="method#getStudyButton#0;class#swing#0" expanded="false" />
+            <element signature="method#getLearningButton#0;class#swing#0" expanded="false" />
+            <element signature="method#slogan#0;class#swing#0" expanded="false" />
+            <element signature="method#phrase#0;class#swing#0" expanded="false" />
+            <element signature="method#getResultText#0;class#swing#0" expanded="false" />
+            <element signature="method#getWords#0;class#swing#0" expanded="false" />
+            <element signature="method#getImageLabel#0;class#swing#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -760,14 +778,15 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="method#initializeMainMenu#0;class#swing#0" expanded="false" />
             <element signature="method#patternButton#0;class#swing#0" expanded="false" />
             <element signature="method#getTestsButton#0;class#swing#0" expanded="false" />
             <element signature="method#getStudyButton#0;class#swing#0" expanded="false" />
             <element signature="method#getLearningButton#0;class#swing#0" expanded="false" />
             <element signature="method#slogan#0;class#swing#0" expanded="false" />
             <element signature="method#phrase#0;class#swing#0" expanded="false" />
+            <element signature="method#getResultText#0;class#swing#0" expanded="false" />
             <element signature="method#getWords#0;class#swing#0" expanded="false" />
+            <element signature="method#getImageLabel#0;class#swing#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -795,14 +814,15 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="method#initializeMainMenu#0;class#swing#0" expanded="false" />
             <element signature="method#patternButton#0;class#swing#0" expanded="false" />
             <element signature="method#getTestsButton#0;class#swing#0" expanded="false" />
             <element signature="method#getStudyButton#0;class#swing#0" expanded="false" />
             <element signature="method#getLearningButton#0;class#swing#0" expanded="false" />
             <element signature="method#slogan#0;class#swing#0" expanded="false" />
             <element signature="method#phrase#0;class#swing#0" expanded="false" />
+            <element signature="method#getResultText#0;class#swing#0" expanded="false" />
             <element signature="method#getWords#0;class#swing#0" expanded="false" />
+            <element signature="method#getImageLabel#0;class#swing#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -830,14 +850,15 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="method#initializeMainMenu#0;class#swing#0" expanded="false" />
             <element signature="method#patternButton#0;class#swing#0" expanded="false" />
             <element signature="method#getTestsButton#0;class#swing#0" expanded="false" />
             <element signature="method#getStudyButton#0;class#swing#0" expanded="false" />
             <element signature="method#getLearningButton#0;class#swing#0" expanded="false" />
             <element signature="method#slogan#0;class#swing#0" expanded="false" />
             <element signature="method#phrase#0;class#swing#0" expanded="false" />
+            <element signature="method#getResultText#0;class#swing#0" expanded="false" />
             <element signature="method#getWords#0;class#swing#0" expanded="false" />
+            <element signature="method#getImageLabel#0;class#swing#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -865,14 +886,15 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="method#initializeMainMenu#0;class#swing#0" expanded="false" />
             <element signature="method#patternButton#0;class#swing#0" expanded="false" />
             <element signature="method#getTestsButton#0;class#swing#0" expanded="false" />
             <element signature="method#getStudyButton#0;class#swing#0" expanded="false" />
             <element signature="method#getLearningButton#0;class#swing#0" expanded="false" />
             <element signature="method#slogan#0;class#swing#0" expanded="false" />
             <element signature="method#phrase#0;class#swing#0" expanded="false" />
+            <element signature="method#getResultText#0;class#swing#0" expanded="false" />
             <element signature="method#getWords#0;class#swing#0" expanded="false" />
+            <element signature="method#getImageLabel#0;class#swing#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -900,14 +922,15 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="method#initializeMainMenu#0;class#swing#0" expanded="false" />
             <element signature="method#patternButton#0;class#swing#0" expanded="false" />
             <element signature="method#getTestsButton#0;class#swing#0" expanded="false" />
             <element signature="method#getStudyButton#0;class#swing#0" expanded="false" />
             <element signature="method#getLearningButton#0;class#swing#0" expanded="false" />
             <element signature="method#slogan#0;class#swing#0" expanded="false" />
             <element signature="method#phrase#0;class#swing#0" expanded="false" />
+            <element signature="method#getResultText#0;class#swing#0" expanded="false" />
             <element signature="method#getWords#0;class#swing#0" expanded="false" />
+            <element signature="method#getImageLabel#0;class#swing#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -919,14 +942,15 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="method#initializeMainMenu#0;class#swing#0" expanded="false" />
             <element signature="method#patternButton#0;class#swing#0" expanded="false" />
             <element signature="method#getTestsButton#0;class#swing#0" expanded="false" />
             <element signature="method#getStudyButton#0;class#swing#0" expanded="false" />
             <element signature="method#getLearningButton#0;class#swing#0" expanded="false" />
             <element signature="method#slogan#0;class#swing#0" expanded="false" />
             <element signature="method#phrase#0;class#swing#0" expanded="false" />
+            <element signature="method#getResultText#0;class#swing#0" expanded="false" />
             <element signature="method#getWords#0;class#swing#0" expanded="false" />
+            <element signature="method#getImageLabel#0;class#swing#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -938,14 +962,15 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="method#initializeMainMenu#0;class#swing#0" expanded="false" />
             <element signature="method#patternButton#0;class#swing#0" expanded="false" />
             <element signature="method#getTestsButton#0;class#swing#0" expanded="false" />
             <element signature="method#getStudyButton#0;class#swing#0" expanded="false" />
             <element signature="method#getLearningButton#0;class#swing#0" expanded="false" />
             <element signature="method#slogan#0;class#swing#0" expanded="false" />
             <element signature="method#phrase#0;class#swing#0" expanded="false" />
+            <element signature="method#getResultText#0;class#swing#0" expanded="false" />
             <element signature="method#getWords#0;class#swing#0" expanded="false" />
+            <element signature="method#getImageLabel#0;class#swing#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -957,14 +982,15 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="method#initializeMainMenu#0;class#swing#0" expanded="false" />
             <element signature="method#patternButton#0;class#swing#0" expanded="false" />
             <element signature="method#getTestsButton#0;class#swing#0" expanded="false" />
             <element signature="method#getStudyButton#0;class#swing#0" expanded="false" />
             <element signature="method#getLearningButton#0;class#swing#0" expanded="false" />
             <element signature="method#slogan#0;class#swing#0" expanded="false" />
             <element signature="method#phrase#0;class#swing#0" expanded="false" />
+            <element signature="method#getResultText#0;class#swing#0" expanded="false" />
             <element signature="method#getWords#0;class#swing#0" expanded="false" />
+            <element signature="method#getImageLabel#0;class#swing#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1001,19 +1027,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/swing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5443299">
-          <caret line="284" column="35" selection-start-line="284" selection-start-column="35" selection-end-line="284" selection-end-column="35" />
+        <state vertical-scroll-proportion="0.57731956">
+          <caret line="60" column="26" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="method#initializeMainMenu#0;class#swing#0" expanded="false" />
             <element signature="method#patternButton#0;class#swing#0" expanded="false" />
             <element signature="method#getTestsButton#0;class#swing#0" expanded="false" />
             <element signature="method#getStudyButton#0;class#swing#0" expanded="false" />
             <element signature="method#getLearningButton#0;class#swing#0" expanded="false" />
             <element signature="method#slogan#0;class#swing#0" expanded="false" />
             <element signature="method#phrase#0;class#swing#0" expanded="false" />
+            <element signature="method#getResultText#0;class#swing#0" expanded="false" />
             <element signature="method#getWords#0;class#swing#0" expanded="false" />
+            <element signature="method#getImageLabel#0;class#swing#0" expanded="false" />
           </folding>
         </state>
       </provider>

@@ -46,7 +46,7 @@ public class swing {
     }
 
     public static JFrame initializeFrame() {
-        panel = initializeMainMenu();
+        initializeMainMenu();
 
         frame.add(panel);
         frame.setSize(800, 700);
@@ -57,8 +57,8 @@ public class swing {
         return frame;
     }
 
-    public static JPanel initializeMainMenu() {
-        JPanel panel = new JPanel();
+    public static void initializeMainMenu() {
+        panel.removeAll();
         panel.setSize(800, 700);
         panel.setBackground(new Color(255, 198, 169));
         panel.setLayout(null);
@@ -75,8 +75,6 @@ public class swing {
         panel.add(testsButton);
         panel.add(studyButton);
         panel.add(learningButton);
-
-        return panel;
     }
 
     public static JButton patternButton() {
@@ -277,10 +275,10 @@ public class swing {
                      numOfTests = 10;
 
                      isChecked = false;
-                     mode = 0;
+                     mode = -1;
 
-                     panel.removeAll();
-                     panel = initializeMainMenu();
+                     initializeMainMenu();
+                     System.out.println("initializeMainMenu();");
 
                      panel.repaint();
                      frame.repaint();

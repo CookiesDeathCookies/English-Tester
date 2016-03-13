@@ -282,9 +282,8 @@ public class swing {
                      panel.removeAll();
                      panel = initializeMainMenu();
 
-                     frame.add(panel);
-                  //   frame.repaint();
                      panel.repaint();
+                     frame.repaint();
                  }
              }
         }
@@ -348,6 +347,7 @@ public class swing {
         end.setBounds(300, 40, 200, 50);
         end.setText("End");
         end.setName("End");
+        if (mode == 0) { end.setName("EndTest"); }
 
         panel.add(nextExcercise);
         panel.add(field);
@@ -392,7 +392,7 @@ public class swing {
 
         JButton button = patternButton();
         button.setBounds(300, 360, 200, 50);
-        button.setName("To menu");
+        button.setName("ToMenu");
         button.setText("To menu");
 
         panel.add(button);
